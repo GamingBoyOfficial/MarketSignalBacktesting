@@ -34,3 +34,10 @@ The goal is to demonstrate strategy backtesting, performance evaluation, and ris
 ## Files
 - `market_signal_analysis.ipynb` → Full notebook with code, plots, and analysis  
 - `backtest.py` → Standalone Python script for running the strategies
+
+## 📒 Notebook Execution Note
+
+GitHub renders Jupyter notebooks statically.
+
+To run the notebook interactively, open it in Google Colab or a local Jupyter environment.
+
